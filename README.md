@@ -29,6 +29,10 @@ Desenvolver um componente de clima de acordo com o layout abaixo, onde o usuári
 
 Você tem liberdade de desenvolve-lo como bem entender.
 
+### APIs Públicas
+
+https://github.com/toddmotto/public-apis#weather
+
 ## Critérios de Avaliação
 
 - Organização
