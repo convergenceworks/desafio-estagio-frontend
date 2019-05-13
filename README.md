@@ -21,8 +21,9 @@ Benefícios
 ## O Desafio
 Para avaliar seu desempenho com Front-end temos um desafio para você.
 
-O cenário é o seguinte:  
-Um cliente quer exibir informações sobre o clima no portal e temos que desenvolver esse elemento:
+Desenvolver um componente de clima de acordo com o layout abaixo, onde o usuário deve ser capaz escolher a cidade.
+
+### Layout
 
 ![Nível Padawan](imgs/componente.png)
 
@@ -39,3 +40,4 @@ Você tem liberdade de desenvolve-lo como bem entender.
 - Preprocessador [Less](http://lesscss.org) e CSS
 - Task Runner: [Gulp](https://gulpjs.com)
 - JavaScript e [jQuery](http://jquery.com)
+- [Twig](https://twig.symfony.com/)
